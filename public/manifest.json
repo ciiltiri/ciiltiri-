@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Ciiltiri - Xarunta Garasbaaley",
+  "short_name": "Ciiltiri",
+  "description": "Xarunta Ciiltiri ee degmada Garasbaaley - Daryeelka agoonta, danyarta, iyo dadka baahiyaha gaarka ah qaba (cuuryaanta). Tel: 611466747",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#047857",
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
